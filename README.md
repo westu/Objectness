@@ -4,9 +4,9 @@ BING Objectness proposal estimator Linux Ubuntu 14.04/Mac OSX Yosemite/iOS 8.1 v
 runs at 1000 FPS at a Dell 7600 workstation with Linux Ubuntu 14.04.
 ## INSTALL
 
-> mkdir build
+> mkdir release
 
-> cd build
+> cd release
 
 To make this program running fast, you need to enable release mode: 
 > cmake -DCMAKE_BUILD_TYPE=Release ../
