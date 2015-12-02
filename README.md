@@ -5,6 +5,7 @@ runs at 1000 FPS at a Dell 7600 workstation with Linux Ubuntu 14.04.
 ## INSTALL
 
 > mkdir build
+
 > cd build
 
 To make this program running fast, you need to enable release mode: 
